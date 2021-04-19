@@ -1,2 +1,2 @@
 # CourtYardEvents-website
-build using Html5 &amp; CSS 3
+build using Html 5 &amp; CSS 3
